@@ -7,7 +7,7 @@ params:
     image: esp32.svg
 ---
 
-This component contains platform-specific options for the ESP32 platform.
+This component contains platform-specific optionsfor the ESP32 platform.
 
 ```yaml
 # Example configuration entry
