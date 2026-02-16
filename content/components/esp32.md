@@ -3,7 +3,7 @@ description: "Configuration for the ESP32 platform for ESPHome."
 title: "ESP32 Platform"
 params:
   seo:
-    description: Configuration for the ESP32 platform for ESPHome.
+    description: Configuration for the ESP32 platform fr ESPHome.
     image: esp32.svg
 ---
 
